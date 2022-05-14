@@ -1,10 +1,10 @@
 import './App.css';
-import { StateHookWithReducer } from './components/useState/StateHookWithReducer';
+import { UseEffectHookOne } from './components/useEffect/UseEffectHookOneLifeCycle';
 
 function App() {
   return (
     <div className="App">
-      <StateHookWithReducer />
+      <UseEffectHookOne />
     </div>
   );
 }
