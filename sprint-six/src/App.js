@@ -1,10 +1,10 @@
 import './App.css';
-import UseLayoutEffect from './components/useLayoutEffect/UseLayoutEffect';
+import ParentButton from './components/useImperativeHandle/ParentButton';
 
 function App() {
   return (
     <div className="App">
-      <UseLayoutEffect />
+      <ParentButton />
     </div>
   );
 }
