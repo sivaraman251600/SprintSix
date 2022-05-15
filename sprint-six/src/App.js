@@ -1,10 +1,10 @@
 import './App.css';
-import AppProvider from './components/useContext/AppProvider';
+import { UseMemoHook } from './components/useMemo/UseMemoHook';
 
 function App() {
   return (
     <div className="App">
-      <AppProvider />
+      <UseMemoHook />
     </div>
   );
 }
