@@ -1,10 +1,10 @@
 import './App.css';
-import ParentButton from './components/useImperativeHandle/ParentButton';
+import AppProvider from './components/useContext/AppProvider';
 
 function App() {
   return (
     <div className="App">
-      <ParentButton />
+      <AppProvider />
     </div>
   );
 }
