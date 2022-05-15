@@ -1,10 +1,10 @@
 import './App.css';
-import { UseRefHookTwo } from './components/useRef/UseRefHookTwo';
+import UseLayoutEffect from './components/useLayoutEffect/UseLayoutEffect';
 
 function App() {
   return (
     <div className="App">
-      <UseRefHookTwo />
+      <UseLayoutEffect />
     </div>
   );
 }
