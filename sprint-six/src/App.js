@@ -1,11 +1,10 @@
 import './App.css';
-import FetchData from './components/API Call/FetchData';
-import PostData from './components/API Call/PostData';
+import TestElementOne from './components/TestElement/TestElementOne';
 
 function App() {
   return (
     <div className="App">
-      <PostData />
+      <TestElementOne />
     </div>
   );
 }
