@@ -1,0 +1,19 @@
+{
+  "posts": [],
+  "details": [
+    {
+      "name": "shilpa",
+      "age": "23",
+      "salary": "20000",
+      "position": "react developer",
+      "id": 3
+    },
+    {
+      "name": "praveen",
+      "age": "25",
+      "salary": "26",
+      "position": "Java Developer",
+      "id": 4
+    }
+  ]
+}
